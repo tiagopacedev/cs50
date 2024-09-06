@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It works by repeatedly comparing and swapping items until the list is sorted. It’s easy to recognize because it keeps going through the list multiple times, making it slow for larger lists.
+
+sort2 uses: Merge Sort
+
+How do you know?: This sort divides the list into smaller parts, sorts them, and then merges them back together. It’s faster with bigger or random lists because it’s good at handling large amounts of data efficiently.
+
+sort3 uses: Selection Sort
+
+How do you know?: It finds the smallest item and moves it to the front, then repeats this process. It’s not as quick as Merge Sort but is straightforward and easier to understand.
+

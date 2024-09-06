@@ -1,0 +1,8 @@
+# Ignore database files
+*.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
